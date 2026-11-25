@@ -1,0 +1,65 @@
+# M624 · Power
+
+Ward-Beck Systems M624, 1968|1. Wiki page: [M624 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M624.html)
+
+| Folder | What is in it | Files |
+|---|---|---|
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 131 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 28 |
+
+## Photos
+
+_Photographs of the module itself: front, back, inside, racked._
+
+<table>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUWFuRWZ5VmozbFE/view?resourcekey=0-QOJljhCfdSrTfus_IWPp6A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUWFuRWZ5VmozbFE&resourcekey=0-QOJljhCfdSrTfus_IWPp6A" width="240" alt="1968 - M624 - WBS test procedures 0.jpeg"></a><br><sub>1968|1 · WBS test procedures 0</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNF9hSEFsU19lN2s/view?resourcekey=0-GbXinRM7zzrImjNlx-tK0Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNF9hSEFsU19lN2s&resourcekey=0-GbXinRM7zzrImjNlx-tK0Q" width="240" alt="1968 - M624 - WBS test procedures 1.jpeg"></a><br><sub>1968|1 · WBS test procedures 1</sub></td></tr>
+</table>
+
+## Schematics
+
+_Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
+
+<table>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1TiNzOJtwJRqjLzJ75frZgRRZhgPcaUb7/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1TiNzOJtwJRqjLzJ75frZgRRZhgPcaUb7" width="240" alt="1968 - M624 - DOC - FRAME WIRING VIEWED FROM REAR.png"></a><br><sub>1968|1 · DOC - FRAME WIRING VIEWED FROM REAR</sub></td></tr>
+</table>
+
+Not on Google Drive yet: `1968 - 624-02-001 - POWER SUPPLY M624 SCHEMATIC - DRN C.S.O'CONNELL - ISS 1.png`, `1979 - 624-02-001 - 24V POWER SUPPLY SCHEMATIC - DRN GEB - ENG GEB - ISS 2.jpg`
+
+## Manuals and documents
+
+_Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
+
+<table>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKb0p0dXdFS0JVT0E/view?resourcekey=0-Ia5WrOLE5k59W5WnPJqQpw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKb0p0dXdFS0JVT0E&resourcekey=0-Ia5WrOLE5k59W5WnPJqQpw" width="240" alt="1968 - M624 - OPERATION CONNECT PI.jpg"></a><br><sub>1968|1 · OPERATION CONNECT PI</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKU29fa0EyTGhMYWM/view?resourcekey=0-aD1oCssyMqtqW5PAkvPKmQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKU29fa0EyTGhMYWM&resourcekey=0-aD1oCssyMqtqW5PAkvPKmQ" width="240" alt="1968 - M624 - P01 - Cover.jpg"></a><br><sub>1968|1 · P01 - Cover</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOEhUaE92WU9hSm8/view?resourcekey=0-WxJL1k6MZfXegTBsjaqtVw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOEhUaE92WU9hSm8&resourcekey=0-WxJL1k6MZfXegTBsjaqtVw" width="240" alt="1968 - M624 - P02.jpg"></a><br><sub>1968|1 · P02</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWkhtNm0wNlVZVFk/view?resourcekey=0-dXT_rZgXGqM2puZWuV56aA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWkhtNm0wNlVZVFk&resourcekey=0-dXT_rZgXGqM2puZWuV56aA" width="240" alt="1968 - M624 - P04- Warranty.jpg"></a><br><sub>1968|1 · P04- Warranty</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTzk4cXJnUDFaY28/view?resourcekey=0-tYidl7IO_bjJI-7QVanuYA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTzk4cXJnUDFaY28&resourcekey=0-tYidl7IO_bjJI-7QVanuYA" width="240" alt="1968 - M624 - P05 - 1-1.jpg"></a><br><sub>1968|1 · P05 - 1-1</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT2VHcmhhNVlkdVk/view?resourcekey=0-1ojhxcY53PVwYecg2tQLqw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT2VHcmhhNVlkdVk&resourcekey=0-1ojhxcY53PVwYecg2tQLqw" width="240" alt="1968 - M624 - P06 - 2-1.jpg"></a><br><sub>1968|1 · P06 - 2-1</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaTlXWXF2THpUa2c/view?resourcekey=0-qCegNL_-SVLcvcPrwSxW5Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaTlXWXF2THpUa2c&resourcekey=0-qCegNL_-SVLcvcPrwSxW5Q" width="240" alt="1968 - M624 - P07 - 3-1.jpg"></a><br><sub>1968|1 · P07 - 3-1</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdF96SUFwTld0aEE/view?resourcekey=0-DmVVFIebyto6dk8xyHxY8A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdF96SUFwTld0aEE&resourcekey=0-DmVVFIebyto6dk8xyHxY8A" width="240" alt="1968 - M624 - P08 - 4-1.jpg"></a><br><sub>1968|1 · P08 - 4-1</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKU3pWSHhFRlZMcnc/view?resourcekey=0-vEX3VlGLDUqu2485cFlTUw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKU3pWSHhFRlZMcnc&resourcekey=0-vEX3VlGLDUqu2485cFlTUw" width="240" alt="1968 - M624 - Power Supply (2).pdf"></a><br><sub>1968|1 · Power Supply (2)</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKck12MWV5eDMxQTQ/view?resourcekey=0-o5BCWABnL8enGJCcNAhCsQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKck12MWV5eDMxQTQ&resourcekey=0-o5BCWABnL8enGJCcNAhCsQ" width="240" alt="1968 - M624 - Power Supply.pdf"></a><br><sub>1968|1 · Power Supply</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNnlHRlZkM3JsTm8/view?resourcekey=0-revQ6vu3rMBcMR5nVFaNdw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNnlHRlZkM3JsTm8&resourcekey=0-revQ6vu3rMBcMR5nVFaNdw" width="240" alt="1977 - M624 - PRICE LIST - 7000 series - price list.jpg"></a><br><sub>1977|10 · PRICE LIST - 7000 series - price list</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYXo5Qlg1WHhSVFU/view?resourcekey=0-w8rjcBS4MPo85YWFx8ocVg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYXo5Qlg1WHhSVFU&resourcekey=0-w8rjcBS4MPo85YWFx8ocVg" width="240" alt="1977 - M624 - PRICE LIST - price list.jpg"></a><br><sub>1977|10 · PRICE LIST - price list</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKa0Jtb2JMY0pLN2c/view?resourcekey=0-bK0Rj9J9DSJYmn3mkWQjXQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKa0Jtb2JMY0pLN2c&resourcekey=0-bK0Rj9J9DSJYmn3mkWQjXQ" width="240" alt="1979 - M624 - P03 - TOC.jpg"></a><br><sub>1979|12 · P03 - TOC</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRUxrRHNiMDhXNDQ/view?resourcekey=0-x8-1hqCjF1pnq0ni9YjxtA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRUxrRHNiMDhXNDQ&resourcekey=0-x8-1hqCjF1pnq0ni9YjxtA" width="240" alt="1979 - M624 - Power Supply (2).pdf"></a><br><sub>1979|12 · Power Supply (2)</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKejhQekhGdUF5ZE0/view?resourcekey=0-nsordg8pqcx5wII8F56GsQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKejhQekhGdUF5ZE0&resourcekey=0-nsordg8pqcx5wII8F56GsQ" width="240" alt="1979 - M624 - Power Supply.pdf"></a><br><sub>1979|12 · Power Supply</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSEwzdkNydVhib2M/view?resourcekey=0-hxZh85g48i2x-0bWlSuTXQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSEwzdkNydVhib2M&resourcekey=0-hxZh85g48i2x-0bWlSuTXQ" width="240" alt="19xx - M624 - AD - wbsps - ad - 600 series.jpg"></a><br><sub>19xx - M624 - AD - wbsps - ad - 600 series</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKekxWelYzOThQRHM/view?resourcekey=0-rOJI88tOz3HG9m8bhg5NnQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKekxWelYzOThQRHM&resourcekey=0-rOJI88tOz3HG9m8bhg5NnQ" width="240" alt="19xx - M624 - DOC - DSC03076 copy.jpg"></a><br><sub>19xx - M624 - DOC - DSC03076 copy</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZkNNdlpPcmU0LWM/view?resourcekey=0-E_vjEZWmjI4zXD8QpocRHw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZkNNdlpPcmU0LWM&resourcekey=0-E_vjEZWmjI4zXD8QpocRHw" width="240" alt="19xx - M624 - DOC - L2042 - P05.jpg"></a><br><sub>19xx - M624 - DOC - L2042 - P05</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZWF1aGstemowUEU/view?resourcekey=0-WwNkILifjA9P_JxR7VEsoA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZWF1aGstemowUEU&resourcekey=0-WwNkILifjA9P_JxR7VEsoA" width="240" alt="19xx - M624 - DOC - L2042 - P11.jpg"></a><br><sub>19xx - M624 - DOC - L2042 - P11</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTUh0YVhIN2hjclE/view?resourcekey=0-5BbrKsqSG2dcdybh1CqyLg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTUh0YVhIN2hjclE&resourcekey=0-5BbrKsqSG2dcdybh1CqyLg" width="240" alt="19xx - M624 - DOC - L3242 - P05.jpg"></a><br><sub>19xx - M624 - DOC - L3242 - P05</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKM1ZUc05mNllNM1U/view?resourcekey=0-iG8RBRupfekSrUdybuCH8g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKM1ZUc05mNllNM1U&resourcekey=0-iG8RBRupfekSrUdybuCH8g" width="240" alt="19xx - M624 - DOC - L3242 - P11.jpg"></a><br><sub>19xx - M624 - DOC - L3242 - P11</sub></td></tr>
+</table>
+
+Shared privately on Google Drive (opens after sign-in): [19xx - M624 - DOC - wbsps - ad - 600 series](https://drive.google.com/file/d/0B0yR0b5T78SKYV84MnZPdmp4RXM/view?resourcekey=0-BYn5IKGKqKUqwhW73pe0eg)
+
+Not on Google Drive yet: `M624 - P03 - TOC.jpg`
+
+## KiCad
+
+_KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
+
+- [1968 - 624-02-001 - POWER SUPPLY M624 SCHEMATIC - DRN C.S.O'CONNELL - ISS 1.kicad_sch](KICAD/1968%20-%20624-02-001%20-%20POWER%20SUPPLY%20M624%20SCHEMATIC%20-%20DRN%20C.S.O%27CONNELL%20-%20ISS%201.kicad_sch)
+- [1979 - 624-02-001 - 24V POWER SUPPLY SCHEMATIC - DRN GEB - ENG GEB - ISS 2.kicad_sch](KICAD/1979%20-%20624-02-001%20-%2024V%20POWER%20SUPPLY%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%202.kicad_sch)
+- [1979 - M624 - Power Supply (2) p3.kicad_sch](KICAD/1979%20-%20M624%20-%20Power%20Supply%20(2)%20p3.kicad_sch)
+- [1979 - M624 - Power Supply (2) p9.kicad_sch](KICAD/1979%20-%20M624%20-%20Power%20Supply%20(2)%20p9.kicad_sch)
+- [1979 - M624 - Power Supply p3.kicad_sch](KICAD/1979%20-%20M624%20-%20Power%20Supply%20p3.kicad_sch)
+- [1979 - M624 - Power Supply p9.kicad_sch](KICAD/1979%20-%20M624%20-%20Power%20Supply%20p9.kicad_sch)
+- [M624.kicad_sym](KICAD/M624.kicad_sym)
+
+---
+Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
