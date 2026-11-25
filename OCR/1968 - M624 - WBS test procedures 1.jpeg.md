@@ -81,7 +81,7 @@ ISSUE APRIL/83
 
 ```json
 {
- "file": "Modules/POWER/M624/PHOTOS/1968 - M624 - WBS test procedures 1.jpeg",
+ "file": "Modules/POWER/M624/MANUALS/1968 - M624 - WBS test procedures 1.jpeg",
  "sha256": "10fbd847ae0ac7c3eef145f242b63676084983455482d266a5ea48ffc277d81a",
  "kind": "module",
  "models": [

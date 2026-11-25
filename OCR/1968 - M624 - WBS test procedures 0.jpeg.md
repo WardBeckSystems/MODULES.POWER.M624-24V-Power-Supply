@@ -26,7 +26,7 @@ Power Supply
 
 ```json
 {
- "file": "Modules/POWER/M624/PHOTOS/1968 - M624 - WBS test procedures 0.jpeg",
+ "file": "Modules/POWER/M624/MANUALS/1968 - M624 - WBS test procedures 0.jpeg",
  "sha256": "7135f365e47c4558499c11c91d49795c957365e5e955ef3ab0f8a8639b582cd0",
  "kind": "module",
  "models": [
