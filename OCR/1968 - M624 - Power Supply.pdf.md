@@ -22,7 +22,7 @@ Wiki page: [M624](../../../../PAGES/M624.md)
 - **Closed boxes:** 2; named: \NBS
 - **Words (OCR):** 17 in 16 lines: \NBS · \NBS · \NBS · \NBS · \NBS · \NBS · \NBS · \NBS · "'''LYc · POWER UPP~ · \NBS · ps
 
-Every curve, box, word and wire group: [1968 - M624 - Power Supply p1 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p1%20(traced).json) (the CAD file: `1968 - M624 - Power Supply p1 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M624 - Power Supply p1 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p1%20%28traced%29.json) (the CAD file: `1968 - M624 - Power Supply p1 (traced).dxf`).
 
 ### Page 2
 
@@ -34,7 +34,7 @@ Every curve, box, word and wire group: [1968 - M624 - Power Supply p1 (traced).j
 - **Words (OCR):** 22 in 12 lines: [VVElS] 941 F"RC:IGRl!GS · WARD-BECK SYSTEMS LTD · AVEN..JE. 9C · O>ITAAIO MlH · TEU'1"t-C3"E, "I'05/"':lQ- · TEL.EX: OG "'1lsaa& · M624 · POWE SUPPLY · ps · BS · tp · ht
 - **Title block:** (100, 394)–(247, 418) mm: WARD-BECK SYSTEMS LTD · AVEN..JE. 9C · O>ITAAIO MlH
 
-Every curve, box, word and wire group: [1968 - M624 - Power Supply p2 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p2%20(traced).json) (the CAD file: `1968 - M624 - Power Supply p2 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M624 - Power Supply p2 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p2%20%28traced%29.json) (the CAD file: `1968 - M624 - Power Supply p2 (traced).dxf`).
 
 ### Page 3
 
@@ -45,7 +45,7 @@ Every curve, box, word and wire group: [1968 - M624 - Power Supply p2 (traced).j
 - **Words (OCR):** 44 in 20 lines: WARO·SECK SYSTEMS LTO · TA BL OF CONT ENT · M6 24 POWER SUP PLY · SECTION · PAGE · ech · Oll · cu lt oe sc ..lpti on · Orl · Li · Dra wi gs · M62.4
 - **Title block:** (66, 41)–(272, 419) mm: WARO·SECK SYSTEMS LTO · TA BL OF CONT ENT · M6 24 POWER SUP PLY · PAGE · ech · Oll · cu lt oe sc ..lpti on · Orl · Li · Dra wi gs · M62.4 · Sc hema ti · LB 62 4-02-001 · ps · MAN UA BS · ISSUE
 
-Every curve, box, word and wire group: [1968 - M624 - Power Supply p3 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p3%20(traced).json) (the CAD file: `1968 - M624 - Power Supply p3 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M624 - Power Supply p3 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p3%20%28traced%29.json) (the CAD file: `1968 - M624 - Power Supply p3 (traced).dxf`).
 
 ### Page 4
 
@@ -56,7 +56,7 @@ Every curve, box, word and wire group: [1968 - M624 - Power Supply p3 (traced).j
 - **Words (OCR):** 330 in 169 lines: [W'ElS] ~5S .V'I!""-"E. SC'"PAOAD GH ONrAl'lO '''3Il·fl~ · WAR · LT · 'Ix · T"L~ 06~-=:KlQ · TE l..£PHON£ · "'16 · RA · All · Wa d_B...:; · System · td
 - **Title block:** (40, 110)–(248, 309) mm: lI.r d~Beck Sy"l"m · Ltd" · ili · rep · 111 · oplio · wlt hou · Charg · sa id pro duct · or · ar · eof · hich · tor · ns pec tion pro · de lec iv · dur in!) he · ar llnl · 10 · pro id ed th ai · or in
 
-Every curve, box, word and wire group: [1968 - M624 - Power Supply p4 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p4%20(traced).json) (the CAD file: `1968 - M624 - Power Supply p4 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M624 - Power Supply p4 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p4%20%28traced%29.json) (the CAD file: `1968 - M624 - Power Supply p4 (traced).dxf`).
 
 ### Page 5
 
@@ -68,7 +68,7 @@ Every curve, box, word and wire group: [1968 - M624 - Power Supply p4 (traced).j
 - **Words (OCR):** 78 in 41 lines: WARO-BECK SYSTEMS LTO · TECH ICAL DATA · M6 2lo PO WER SUPPL · DUlPI,H Vo llilgC: · 22, 24, 26 vol · de:: om · wO · se · ou tpu ts · pe en · se · t.ee Cu
 - **Title block:** (9, 404)–(116, 426) mm: WARO-BECK SYSTEMS LTO
 
-Every curve, box, word and wire group: [1968 - M624 - Power Supply p5 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p5%20(traced).json) (the CAD file: `1968 - M624 - Power Supply p5 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M624 - Power Supply p5 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p5%20%28traced%29.json) (the CAD file: `1968 - M624 - Power Supply p5 (traced).dxf`).
 
 ### Page 6
 
@@ -79,7 +79,7 @@ Every curve, box, word and wire group: [1968 - M624 - Power Supply p5 (traced).j
 - **Words (OCR):** 236 in 95 lines: WAAO·BECK SYSTEMS LTO · CIRC UIT DESCRIPTION · M624 · POWER SUPPLY · The M624 · powe · "up ply Is designed primarily fo · use with · he · Wa -Be<k 600 · ~Ies eQuipment bu may be · for any appll o;.:Ilion
 - **Title block:** (9, 396)–(116, 418) mm: WAAO·BECK SYSTEMS LTO
 
-Every curve, box, word and wire group: [1968 - M624 - Power Supply p6 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p6%20(traced).json) (the CAD file: `1968 - M624 - Power Supply p6 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M624 - Power Supply p6 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p6%20%28traced%29.json) (the CAD file: `1968 - M624 - Power Supply p6 (traced).dxf`).
 
 ### Page 7
 
@@ -88,7 +88,7 @@ Every curve, box, word and wire group: [1968 - M624 - Power Supply p6 (traced).j
 - **Outlines:** line 139 rings, 1,607 straight (3,813 mm) / 357 curved (527 mm); text 2,060 rings, 14,773 straight (16,223 mm) / 4,139 curved (6,176 mm)
 - **Words (OCR):** 381 in 178 lines: WARD-BECK SYSTEM · LTD · INSTAL LAT ION · Mf>24 · PO WER SUPPLY · Mf>24 · lug · dl · tly into he M,l) · mounti ng · me wh ich may be In · le
 
-Every curve, box, word and wire group: [1968 - M624 - Power Supply p7 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p7%20(traced).json) (the CAD file: `1968 - M624 - Power Supply p7 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M624 - Power Supply p7 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p7%20%28traced%29.json) (the CAD file: `1968 - M624 - Power Supply p7 (traced).dxf`).
 
 ### Page 8
 
@@ -97,7 +97,7 @@ Every curve, box, word and wire group: [1968 - M624 - Power Supply p7 (traced).j
 - **Outlines:** line 72 rings, 1,222 straight (3,736 mm) / 224 curved (366 mm); text 384 rings, 2,764 straight (3,180 mm) / 803 curved (1,228 mm)
 - **Words (OCR):** 68 in 43 lines: WA~o -aECK SYSTEM · L.TO · PAR TS LIST · M624 POWE SUPPL · PA RT · OESCR PT ON · FG · "FG · PART NUMBER · ct · ce cecncr- 4100 F/75 · cc-eeu
 
-Every curve, box, word and wire group: [1968 - M624 - Power Supply p8 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p8%20(traced).json) (the CAD file: `1968 - M624 - Power Supply p8 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M624 - Power Supply p8 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p8%20%28traced%29.json) (the CAD file: `1968 - M624 - Power Supply p8 (traced).dxf`).
 
 ### Page 9
 
@@ -110,7 +110,7 @@ Every curve, box, word and wire group: [1968 - M624 - Power Supply p8 (traced).j
 - **Words (OCR):** 120 in 89 lines: OWER · PI...Y · MOU"-lT Il'-JG · TRAY · IISVAC · GO H.z. · SWI · FI · AS · 10 · 150 · 20
 - **Title block:** (334, 1)–(432, 48) mm: REDRAWN · GEB · ISSUE DATE · REV ISION · ca APP. · (\NBS) WARD-BECK SYSTEMS · BS · DRN · ENG. EB 9/79 · EB · M624 · 24 · tp · POWER SUPPLY · CKD · ht · SCHEMATIC · PP. · SCALE · LB 624 02 00 · ISSUE
 
-Every curve, box, word and wire group: [1968 - M624 - Power Supply p9 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p9%20(traced).json) (the CAD file: `1968 - M624 - Power Supply p9 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M624 - Power Supply p9 (traced).json](../MANUALS/1968%20-%20M624%20-%20Power%20Supply%20p9%20%28traced%29.json) (the CAD file: `1968 - M624 - Power Supply p9 (traced).dxf`).
 
 ## Full text
 

@@ -36,7 +36,7 @@ Wiki page: [M624](../../../../PAGES/M624.md)
 - **Title block:** (334, 0)–(432, 49) mm: 2/73 REDRAWN · GEB · REVISION · ISSUE DATE · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · ENG_ GEB 9/791 · M624 · Ckd · 24 POWER SUPPLY · SCHEMATIC · SCALE · ISSUE · 624 02 - · 001
 - **Wiring (first pass):** 48 connected wire groups from 206 runs; labelled ends: 118 mm → 5.10; 61 mm → 37; 41 mm → PowERSuPPLY, MOUNTING, IRAY; 36 mm → PowERSuPPLY, MOUNTING, IRAY; 35 mm → +2+v (F3), comMon
 
-Every curve, box, word and wire group: [1979 - 624-02-001 - 24V POWER SUPPLY SCHEMATIC - DRN GEB - ENG GEB - ISS 2 (traced).json](../SCHEMATICS/1979%20-%20624-02-001%20-%2024V%20POWER%20SUPPLY%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%202%20(traced).json) (the CAD file: `1979 - 624-02-001 - 24V POWER SUPPLY SCHEMATIC - DRN GEB - ENG GEB - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 624-02-001 - 24V POWER SUPPLY SCHEMATIC - DRN GEB - ENG GEB - ISS 2 (traced).json](../SCHEMATICS/1979%20-%20624-02-001%20-%2024V%20POWER%20SUPPLY%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1979 - 624-02-001 - 24V POWER SUPPLY SCHEMATIC - DRN GEB - ENG GEB - ISS 2 (traced).dxf`).
 
 ## Full text
 

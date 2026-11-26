@@ -26,7 +26,7 @@ Wiki page: [M624](../../../../PAGES/M624.md)
 - **Words (OCR):** 13 in 13 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M624 · POWER · SUPPLY · WBS
 - **Title block:** (172, 0)–(281, 431) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M624 · POWER · SUPPLY · WBS · WBS
 
-Every curve, box, word and wire group: [1979 - M624 - Power Supply p1 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p1%20(traced).json) (the CAD file: `1979 - M624 - Power Supply p1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M624 - Power Supply p1 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p1%20%28traced%29.json) (the CAD file: `1979 - M624 - Power Supply p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1979 - M624 - Power Supply p1 (traced).j
 - **Words (OCR):** 11 in 7 lines: WAAD-BECK · SystemS LTD_ · WBS 041 PAOGACSS AVENUE, SCARBOAOUGH ONTARIO M1H 2X4 · TeLEX: 065-25389 · TELEPHOINVE; 418/430-G550 · M624 · POWER SUPPLY
 - **Title block:** (31, 385)–(249, 420) mm: WAAD-BECK · SystemS LTD_ · WBS 041 PAOGACSS AVENUE, SCARBOAOUGH ONTARIO M1H 2X4 · TeLEX: 065-25389 · TELEPHOINVE; 418/430-G550
 
-Every curve, box, word and wire group: [1979 - M624 - Power Supply p2 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p2%20(traced).json) (the CAD file: `1979 - M624 - Power Supply p2 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M624 - Power Supply p2 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p2%20%28traced%29.json) (the CAD file: `1979 - M624 - Power Supply p2 (traced).dxf`).
 
 ### Page 3
 
@@ -48,7 +48,7 @@ Every curve, box, word and wire group: [1979 - M624 - Power Supply p2 (traced).j
 - **Words (OCR):** 31 in 21 lines: WAAD-BECK SystemS LTD · TABLE OF CONTENTS · M624 POWER · SUPPLY · SECTION · PAGE · Warranty · Technical Data · I-1 · circuit · Description · 2-1
 - **Wiring (first pass):** 7 connected wire groups from 22 runs; labelled ends: 67 mm → TABLE, M624, CONTENTS, SUPPLY; 53 mm → MANUAL, OCTOBER, USSUE; 35 mm → POWER, SUPPLY; 30 mm → M624, POWER
 
-Every curve, box, word and wire group: [1979 - M624 - Power Supply p3 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p3%20(traced).json) (the CAD file: `1979 - M624 - Power Supply p3 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M624 - Power Supply p3 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p3%20%28traced%29.json) (the CAD file: `1979 - M624 - Power Supply p3 (traced).dxf`).
 
 ### Page 4
 
@@ -59,7 +59,7 @@ Every curve, box, word and wire group: [1979 - M624 - Power Supply p3 (traced).j
 - **Words (OCR):** 262 in 156 lines: WARD-BECK SYStemS LTD; · WBS 841 PAOGAESS AVENUE, SCAADOROUGH ONTAAIO · TELEX 065 35799 · TELEPHONE · W A R R A N T Y · AlI · Ward-Beck Systems · Ltd, , products Are · warranied · against · workmanship for · period of one
 - **Title block:** (26, 83)–(248, 422) mm: WARD-BECK SYStemS LTD; · WBS 841 PAOGAESS AVENUE, SCAADOROUGH ONTAAIO · TELEX 065 35799 · TELEPHONE · W A R R A N T Y · AlI · Ward-Beck Systems · Ltd, , products Are · warranied · workmanship for · pe
 
-Every curve, box, word and wire group: [1979 - M624 - Power Supply p4 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p4%20(traced).json) (the CAD file: `1979 - M624 - Power Supply p4 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M624 - Power Supply p4 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p4%20%28traced%29.json) (the CAD file: `1979 - M624 - Power Supply p4 (traced).dxf`).
 
 ### Page 5
 
@@ -69,7 +69,7 @@ Every curve, box, word and wire group: [1979 - M624 - Power Supply p4 (traced).j
 - **Words (OCR):** 57 in 33 lines: WAAD-BECK SYSTEMS LTD_ · TECIINICAL DATA · M62h POWER SuPPLY · Output Voltage: · 22, 24, · 26 volts dc nominal · (two separate · outputs Independently · fused) · Current: · 1.5 ampere per output, · Load
 - **Title block:** (8, 403)–(116, 428) mm: WAAD-BECK SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1979 - M624 - Power Supply p5 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p5%20(traced).json) (the CAD file: `1979 - M624 - Power Supply p5 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M624 - Power Supply p5 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p5%20%28traced%29.json) (the CAD file: `1979 - M624 - Power Supply p5 (traced).dxf`).
 
 ### Page 6
 
@@ -79,7 +79,7 @@ Every curve, box, word and wire group: [1979 - M624 - Power Supply p5 (traced).j
 - **Words (OCR):** 192 in 89 lines: WARO-BECK systems LTD · CiRcuIT DESCRIPTION · M624 POWER SUPPLY · The M62/ power · supply is · designed primarily · for use · with the · equipment bul may · Ward-Beck 600 serics · be used for any · application
 - **Title block:** (9, 180)–(137, 421) mm: WARO-BECK systems LTD · The M62/ power · supply is · Ward-Beck 600 serics · requiring 24 volts · dc, such a5 · eIc . · Two independently · fuscd 24V , · selection of primary transformer · ment · of th
 
-Every curve, box, word and wire group: [1979 - M624 - Power Supply p6 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p6%20(traced).json) (the CAD file: `1979 - M624 - Power Supply p6 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M624 - Power Supply p6 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p6%20%28traced%29.json) (the CAD file: `1979 - M624 - Power Supply p6 (traced).dxf`).
 
 ### Page 7
 
@@ -89,7 +89,7 @@ Every curve, box, word and wire group: [1979 - M624 - Power Supply p6 (traced).j
 - **Words (OCR):** 311 in 144 lines: WARD-BECK SystemS · LTD · ANSIALLATION · M624 POWER SUPPLY · The M624 · plugs directly into · the · MF6 mounting frame which may · bc in- · stalled in · standard EIA 19 inch · equipment rack with
 - **Title block:** (10, 147)–(178, 421) mm: WARD-BECK SystemS · LTD · ANSIALLATION · M624 POWER SUPPLY · The M624 · plugs directly into · the · stalled in · standard EIA 19 inch · supplied with · the rack. · The · MF6 · frame is furnished with 
 
-Every curve, box, word and wire group: [1979 - M624 - Power Supply p7 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p7%20(traced).json) (the CAD file: `1979 - M624 - Power Supply p7 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M624 - Power Supply p7 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p7%20%28traced%29.json) (the CAD file: `1979 - M624 - Power Supply p7 (traced).dxf`).
 
 ### Page 8
 
@@ -99,7 +99,7 @@ Every curve, box, word and wire group: [1979 - M624 - Power Supply p7 (traced).j
 - **Words (OCR):** 59 in 45 lines: WAAD-BECK Systems LTD; · PARIS LIST · M624 POWER SUPPLY · NUMBER · PART DESCRIPTION · MFG · MFG PART · 4100 · uF/75 · C1 · Capacitor · Cornel/
 - **Title block:** (9, 174)–(227, 421) mm: WAAD-BECK Systems LTD; · PARIS LIST · M624 POWER SUPPLY · PART DESCRIPTION · MFG · MFG PART · 4100 · uF/75 · C1 · Capacitor · Cornel/ · FAH · CRI · Bridge Rectifier · EDI · PB6O · DSI · Indicator · La
 
-Every curve, box, word and wire group: [1979 - M624 - Power Supply p8 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p8%20(traced).json) (the CAD file: `1979 - M624 - Power Supply p8 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M624 - Power Supply p8 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p8%20%28traced%29.json) (the CAD file: `1979 - M624 - Power Supply p8 (traced).dxf`).
 
 ### Page 9
 
@@ -114,7 +114,7 @@ Every curve, box, word and wire group: [1979 - M624 - Power Supply p8 (traced).j
 - **Title block:** (334, 0)–(432, 49) mm: 9/73 REDRAWN · 608 · ISSUE |DATE · WBS WARD-BECK SYSTEMS · DRN: GEB · ENG. CEB 9/791 · M624 · CKD · 24 V POWER · SUPPLY · SCHEMATIC · SCALE · ISSUE · 624 · 02 -001
 - **Wiring (first pass):** 48 connected wire groups from 214 runs, 1 dotted junctions; labelled ends: 166 mm → #ICO4F, Ds/, 15 I; 61 mm → 470, 3w, #ICO4F; 58 mm → 2493; 38 mm → PowER SUPPLY, TRAY, MOUNIINS; 35 mm → coMmon
 
-Every curve, box, word and wire group: [1979 - M624 - Power Supply p9 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p9%20(traced).json) (the CAD file: `1979 - M624 - Power Supply p9 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M624 - Power Supply p9 (traced).json](../MANUALS/1979%20-%20M624%20-%20Power%20Supply%20p9%20%28traced%29.json) (the CAD file: `1979 - M624 - Power Supply p9 (traced).dxf`).
 
 ## Full text
 

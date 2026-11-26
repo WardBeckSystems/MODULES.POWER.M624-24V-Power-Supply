@@ -40,7 +40,7 @@ Wiki page: [M624](../../../../PAGES/M624.md)
 - **Title block:** (190, 28)–(384, 77) mm: FINISH · WARD · BECK SYSIESS · DRN C,S,OCONNELL · DATE JULY 68 · MATERIAL · POWER SUPPLY · CHKD · SCHEMATIC · SCALE · (TOLs · ANGLES · 624 = 02 0oi
 - **Wiring (first pass):** 93 connected wire groups from 444 runs, 4 dotted junctions; labelled ends: 194 mm → 2580, DSI, I6; 171 mm → AC, M624; 99 mm → Ac; 92 mm → 624 = 02; 91 mm → F2, +24, 240
 
-Every curve, box, word and wire group: [1968 - 624-02-001 - POWER SUPPLY M624 SCHEMATIC - DRN C.S.O'CONNELL - ISS 1 (traced).json](../SCHEMATICS/1968%20-%20624-02-001%20-%20POWER%20SUPPLY%20M624%20SCHEMATIC%20-%20DRN%20C.S.O%27CONNELL%20-%20ISS%201%20(traced).json) (the CAD file: `1968 - 624-02-001 - POWER SUPPLY M624 SCHEMATIC - DRN C.S.O'CONNELL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 624-02-001 - POWER SUPPLY M624 SCHEMATIC - DRN C.S.O'CONNELL - ISS 1 (traced).json](../SCHEMATICS/1968%20-%20624-02-001%20-%20POWER%20SUPPLY%20M624%20SCHEMATIC%20-%20DRN%20C.S.O%27CONNELL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1968 - 624-02-001 - POWER SUPPLY M624 SCHEMATIC - DRN C.S.O'CONNELL - ISS 1 (traced).dxf`).
 
 ## Full text
 
