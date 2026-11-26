@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/POWER/M624/MANUALS/1968 - M624 - Power Supply.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/a92015f493036815-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1425, 2000],
+  "mm": [307.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "9"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [14.6, 22.0, 290.8, 411.3],
+ "outlines": {
+  "line": {"rings": 35, "straight": {"n": 1100, "mm": 3103.0}, "curved": {"n": 145, "mm": 241.0}},
+  "text": {"rings": 61, "straight": {"n": 655, "mm": 956.8}, "curved": {"n": 146, "mm": 221.6}},
+  "tb": {"rings": 43, "straight": {"n": 517, "mm": 684.2}, "curved": {"n": 100, "mm": 171.3}}
+ },
+ "circles": [{"c": [131.6, 232.0], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [30.4, 392.5, 146.2, 409.1], "text": "[VVElS] 941 F\"RC:IGRl!GS"},
+   {"mm": [105.6, 402.4, 266.6, 409.9], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [148.3, 396.6, 179.6, 400.7], "text": "AVEN..JE. 9C"},
+   {"mm": [217.0, 396.6, 252.8, 400.7], "text": "O>ITAAIO MlH"},
+   {"mm": [192.8, 391.0, 250.7, 395.6], "text": "TEU'1\"t-C3\"E, \"I'05/\"':lQ-"},
+   {"mm": [105.4, 391.2, 156.5, 395.0], "text": "TEL.EX: OG \"'1lsaa&"},
+   {"mm": [131.3, 240.1, 175.1, 250.2], "text": "M624"},
+   {"mm": [124.8, 228.0, 180.9, 234.0], "text": "POWE SUPPLY"},
+   {"mm": [262.5, 52.7, 281.7, 61.1], "text": "ps"},
+   {"mm": [252.2, 42.1, 272.2, 52.7], "text": "BS"},
+   {"mm": [231.4, 21.6, 248.5, 28.1], "text": "tp"},
+   {"mm": [225.0, 15.1, 244.2, 21.6], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [99.5, 393.7, 247.4, 418.4],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD", "AVEN..JE. 9C", "O>ITAAIO MlH"]
+ },
+ "dots": [{"c": [131.6, 232.0], "r": 1.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 308 × 432 mm, 1425 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 15–291 mm across, 22–411 mm up",
+  "- **Outlines:** line 35 rings, 1,100 straight (3,103 mm) / 145 curved (241 mm); text 61 rings, 655 straight (957 mm) / 146 curved (222 mm); tb 43 rings, 517 straight (684 mm) / 100 curved (171 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.7 @ (131.6, 232.0)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 22 in 12 lines: [VVElS] 941 F\"RC:IGRl!GS · WARD-BECK SYSTEMS LTD · AVEN..JE. 9C · O>ITAAIO MlH · TEU'1\"t-C3\"E, \"I'05/\"':lQ- · TEL.EX: OG \"'1lsaa& · M624 · POWE SUPPLY · ps · BS · tp · ht",
+  "- **Title block:** (100, 394)–(247, 418) mm: WARD-BECK SYSTEMS LTD · AVEN..JE. 9C · O>ITAAIO MlH"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/POWER/M624/MANUALS/1979 - M624 - Power Supply.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/245b0facd4addad2-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1425, 2000],
+  "mm": [307.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "9"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [14.6, 23.8, 290.2, 411.3],
+ "outlines": {
+  "line": {"rings": 5, "straight": {"n": 558, "mm": 2416.1}, "curved": {"n": 67, "mm": 107.7}},
+  "text": {"rings": 126, "straight": {"n": 1440, "mm": 1986.7}, "curved": {"n": 309, "mm": 514.9}},
+  "tb": {"rings": 2, "straight": {"n": 101, "mm": 302.6}, "curved": {"n": 2, "mm": 2.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [105.8, 402.7, 181.4, 411.3], "text": "WAAD-BECK"},
+   {"mm": [184.4, 401.6, 268.8, 411.6], "text": "SystemS LTD_"},
+   {"mm": [36.7, 393.4, 266.4, 407.5], "text": "WBS 041 PAOGACSS AVENUE, SCARBOAOUGH ONTARIO M1H 2X4"},
+   {"mm": [104.5, 391.6, 157.4, 396.9], "text": "TeLEX: 065-25389"},
+   {"mm": [192.4, 391.0, 266.4, 396.3], "text": "TELEPHOINVE; 418/430-G550"},
+   {"mm": [130.8, 240.5, 176.2, 252.3], "text": "M624"},
+   {"mm": [123.7, 227.8, 181.8, 235.9], "text": "POWER SUPPLY"}
+  ]
+ },
+ "title_block": {
+  "mm": [30.6, 384.8, 248.8, 420.2],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK", "SystemS LTD_", "WBS 041 PAOGACSS AVENUE, SCARBOAOUGH ONTARIO M1H 2X4", "TeLEX: 065-25389", "TELEPHOINVE; 418/430-G550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 308 × 432 mm, 1425 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 15–290 mm across, 24–411 mm up",
+  "- **Outlines:** line 5 rings, 558 straight (2,416 mm) / 67 curved (108 mm); text 126 rings, 1,440 straight (1,987 mm) / 309 curved (515 mm); tb 2 rings, 101 straight (303 mm) / 2 curved (2.4 mm)",
+  "- **Words (OCR):** 11 in 7 lines: WAAD-BECK · SystemS LTD_ · WBS 041 PAOGACSS AVENUE, SCARBOAOUGH ONTARIO M1H 2X4 · TeLEX: 065-25389 · TELEPHOINVE; 418/430-G550 · M624 · POWER SUPPLY",
+  "- **Title block:** (31, 385)–(249, 420) mm: WAAD-BECK · SystemS LTD_ · WBS 041 PAOGACSS AVENUE, SCARBOAOUGH ONTARIO M1H 2X4 · TeLEX: 065-25389 · TELEPHOINVE; 418/430-G550"
+ ]
+}

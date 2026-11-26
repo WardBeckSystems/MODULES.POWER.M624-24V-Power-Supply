@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/POWER/M624/MANUALS/1979 - M624 - Power Supply.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/245b0facd4addad2-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1416, 2000],
+  "mm": [305.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "9"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [169.3, 2.8, 305.7, 431.8],
+ "outlines": {
+  "line": {"rings": 22, "straight": {"n": 1584, "mm": 5699.1}, "curved": {"n": 74, "mm": 131.6}},
+  "text": {"rings": 50, "straight": {"n": 1224, "mm": 4243.0}, "curved": {"n": 129, "mm": 220.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [181.4, 398.6, 275.1, 422.5], "text": "WBS"},
+   {"mm": [179.6, 359.7, 274.8, 383.7], "text": "WBS"},
+   {"mm": [180.3, 320.6, 274.2, 344.4], "text": "WBS"},
+   {"mm": [180.5, 281.5, 274.8, 304.8], "text": "WBS"},
+   {"mm": [181.1, 241.6, 275.1, 265.3], "text": "WBS"},
+   {"mm": [180.3, 203.4, 274.2, 226.6], "text": "WBS"},
+   {"mm": [180.7, 163.9, 274.8, 187.9], "text": "WBS"},
+   {"mm": [178.5, 124.6, 274.4, 149.0], "text": "WBS"},
+   {"mm": [217.4, 97.6, 234.0, 104.5], "text": "M624"},
+   {"mm": [206.2, 91.3, 226.7, 98.3], "text": "POWER"},
+   {"mm": [229.3, 91.5, 254.1, 98.5], "text": "SUPPLY"},
+   {"mm": [180.7, 46.6, 274.8, 70.1], "text": "WBS"},
+   {"mm": [178.5, 7.3, 274.4, 31.6], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [172.5, 0.0, 281.1, 431.2],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M624", "POWER", "SUPPLY", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1416 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 169–306 mm across, 3–432 mm up",
+  "- **Outlines:** line 22 rings, 1,584 straight (5,699 mm) / 74 curved (132 mm); text 50 rings, 1,224 straight (4,243 mm) / 129 curved (221 mm)",
+  "- **Words (OCR):** 13 in 13 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M624 · POWER · SUPPLY · WBS",
+  "- **Title block:** (172, 0)–(281, 431) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M624 · POWER · SUPPLY · WBS · WBS"
+ ]
+}

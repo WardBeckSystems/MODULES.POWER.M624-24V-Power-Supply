@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/POWER/M624/MANUALS/1968 - M624 - Power Supply (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/55fe1221d2fc7837-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1416, 2000],
+  "mm": [305.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "9"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [169.3, 2.8, 305.7, 431.8],
+ "outlines": {
+  "line": {"rings": 66, "straight": {"n": 2576, "mm": 9320.5}, "curved": {"n": 178, "mm": 329.9}},
+  "text": {"rings": 6, "straight": {"n": 186, "mm": 609.8}, "curved": {"n": 11, "mm": 20.2}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [222.6, 295.6, 239.6, 298.4], "w": 17.1, "h": 2.8, "from": "ring"},
+  {"mm": [222.6, 249.8, 239.9, 252.8], "w": 17.3, "h": 3.0, "from": "ring", "words": ["\\NBS"]}
+ ],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [181.6, 399.0, 271.8, 418.4], "text": "\\NBS"},
+   {"mm": [181.1, 360.3, 271.6, 379.5], "text": "\\NBS"},
+   {"mm": [181.6, 320.6, 271.8, 340.0], "text": "\\NBS"},
+   {"mm": [181.6, 281.5, 271.8, 300.7], "text": "\\NBS"},
+   {"mm": [181.1, 242.0, 271.4, 261.5], "text": "\\NBS"},
+   {"mm": [181.6, 203.2, 271.8, 222.4], "text": "\\NBS"},
+   {"mm": [181.1, 163.9, 271.4, 183.3], "text": "\\NBS"},
+   {"mm": [181.6, 124.8, 271.8, 144.2], "text": "\\NBS"},
+   {"mm": [218.1, 91.8, 258.2, 101.8], "text": "\"'''LYc"},
+   {"mm": [207.3, 89.6, 249.4, 97.3], "text": "POWER UPP~"},
+   {"mm": [181.6, 46.9, 271.8, 66.3], "text": "\\NBS"},
+   {"mm": [260.8, 52.5, 279.8, 60.6], "text": "ps"},
+   {"mm": [250.4, 41.9, 270.3, 52.4], "text": "BS"},
+   {"mm": [181.1, 7.6, 271.4, 26.7], "text": "\\NBS"},
+   {"mm": [229.9, 21.6, 246.8, 28.1], "text": "tp"},
+   {"mm": [223.5, 14.9, 242.5, 21.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1416 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 169–306 mm across, 3–432 mm up",
+  "- **Outlines:** line 66 rings, 2,576 straight (9,320 mm) / 178 curved (330 mm); text 6 rings, 186 straight (610 mm) / 11 curved (20.2 mm)",
+  "- **Closed boxes:** 2; named: \\NBS",
+  "- **Words (OCR):** 17 in 16 lines: \\NBS · \\NBS · \\NBS · \\NBS · \\NBS · \\NBS · \\NBS · \\NBS · \"'''LYc · POWER UPP~ · \\NBS · ps"
+ ]
+}

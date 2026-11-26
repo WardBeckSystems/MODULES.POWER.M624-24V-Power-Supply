@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/POWER/M624/MANUALS/1979 - M624 - Power Supply (2).pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/132b5f159858c163-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1425, 2000],
+  "mm": [307.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "9"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [14.2, 19.0, 307.7, 431.8],
+ "outlines": {
+  "line": {"rings": 27, "straight": {"n": 781, "mm": 3015.1}, "curved": {"n": 100, "mm": 151.9}},
+  "text": {"rings": 449, "straight": {"n": 3295, "mm": 3633.7}, "curved": {"n": 963, "mm": 1467.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 55,
+  "lines": [
+   {"mm": [14.0, 411.9, 128.5, 418.9], "text": "WAAD-BECK SYSTEMS LTD_"},
+   {"mm": [128.0, 368.1, 185.2, 375.1], "text": "TECIINICAL DATA"},
+   {"mm": [123.1, 354.5, 191.3, 361.6], "text": "M62h POWER SuPPLY"},
+   {"mm": [28.9, 327.3, 83.8, 335.6], "text": "Output Voltage:"},
+   {"mm": [129.1, 327.1, 197.8, 336.0], "text": "22, 24, 26 volts dc"},
+   {"mm": [199.9, 328.0, 226.7, 334.9], "text": "nominal"},
+   {"mm": [130.0, 320.8, 177.9, 328.7], "text": "(two separate"},
+   {"mm": [180.3, 320.6, 255.2, 328.8], "text": "outputs Independently"},
+   {"mm": [129.5, 314.8, 152.2, 321.7], "text": "fuscd)"},
+   {"mm": [29.8, 301.4, 78.4, 309.1], "text": "Load Current:"},
+   {"mm": [130.0, 301.2, 247.2, 308.8], "text": "1.5 ampere per output, outputs_"},
+   {"mm": [29.1, 288.2, 54.6, 295.2], "text": "Ripple:"},
+   {"mm": [137.7, 288.9, 185.0, 295.4], "text": "volt maximum;"},
+   {"mm": [29.1, 275.1, 100.0, 282.5], "text": "Power Requirements:"},
+   {"mm": [130.0, 275.1, 175.1, 282.4], "text": "115 volis ac,"},
+   {"mm": [179.2, 275.9, 198.4, 282.4], "text": "60 Hz"},
+   {"mm": [204.5, 275.3, 227.8, 282.2], "text": "125 VA"},
+   {"mm": [130.0, 268.8, 162.8, 275.3], "text": "maximum."},
+   {"mm": [29.8, 255.2, 56.8, 262.2], "text": "Ambient"},
+   {"mm": [59.4, 255.0, 103.6, 262.2], "text": "Temperature:"},
+   {"mm": [147.2, 254.5, 214.2, 262.5], "text": "60  degrees Celsius."},
+   {"mm": [138.0, 255.6, 145.1, 260.9], "text": "t0"},
+   {"mm": [29.1, 242.2, 69.7, 249.2], "text": "Dimensions:"},
+   {"mm": [130.0, 242.2, 189.6, 248.7], "text": "3.4\" wide 3.4\""},
+   {"mm": [191.5, 241.4, 254.8, 248.8], "text": "high 13.7\" decp"},
+   {"mm": [130.0, 235.3, 154.6, 242.3], "text": "(83 mm"},
+   {"mm": [165.4, 235.5, 186.5, 241.7], "text": "83 mm"},
+   {"mm": [197.5, 235.3, 209.4, 242.3], "text": "336"},
+   {"mm": [29.8, 221.9, 55.7, 228.9], "text": "Weight:"},
+   {"mm": [130.0, 222.4, 154.6, 228.9], "text": "6.5 Ib ."},
+   {"mm": [158.0, 221.1, 184.6, 229.5], "text": "(3 kg) ."}
+  ]
+ },
+ "title_block": {"mm": [7.9, 403.2, 115.7, 427.5], "from": "title-block words (training set)", "text": ["WAAD-BECK SYSTEMS LTD_"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 308 × 432 mm, 1425 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 14–308 mm across, 19–432 mm up",
+  "- **Outlines:** line 27 rings, 781 straight (3,015 mm) / 100 curved (152 mm); text 449 rings, 3,295 straight (3,634 mm) / 963 curved (1,467 mm)",
+  "- **Words (OCR):** 55 in 31 lines: WAAD-BECK SYSTEMS LTD_ · TECIINICAL DATA · M62h POWER SuPPLY · Output Voltage: · 22, 24, 26 volts dc · nominal · (two separate · outputs Independently · fuscd) · Load Current: · 1.5 ampere per output, outputs_ · Ripple:",
+  "- **Title block:** (8, 403)–(116, 428) mm: WAAD-BECK SYSTEMS LTD_"
+ ]
+}
