@@ -1,17 +1,17 @@
-# M624 · Power
+# M624 24V Power Supply · Power
 
 Ward-Beck Systems M624, 1968|1. Wiki page: [M624 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M624.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 10 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 11 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 134 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 133 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 28 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 25 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -110,10 +110,8 @@ ConNECTORS REAR VIEW 13,14 coMMON 15,16 NOTES ShowN CONNECTED FOR 24v OPERATiON 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1TiNzOJtwJRqjLzJ75frZgRRZhgPcaUb7/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1TiNzOJtwJRqjLzJ75frZgRRZhgPcaUb7" width="240" alt="1968 - M624 - DOC - FRAME WIRING VIEWED FROM REAR.png"></a><br><sub>1968|1 · DOC - FRAME WIRING VIEWED FROM REAR</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1TiNzOJtwJRqjLzJ75frZgRRZhgPcaUb7/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1TiNzOJtwJRqjLzJ75frZgRRZhgPcaUb7" width="240" alt="1968 - M624 - DOC - FRAME WIRING VIEWED FROM REAR.png"></a><br><sub>1968|1 · DOC - FRAME WIRING VIEWED FROM REAR · <a href="SCHEMATICS/1968%20-%20M624%20-%20DOC%20-%20FRAME%20WIRING%20VIEWED%20FROM%20REAR%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1968 - 624-02-001 - POWER SUPPLY M624 SCHEMATIC - DRN C.S.O'CONNELL - ISS 1.png`, `1979 - 624-02-001 - 24V POWER SUPPLY SCHEMATIC - DRN GEB - ENG GEB - ISS 2.jpg`
 
 ## Manuals and documents
 
@@ -132,13 +130,12 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 Shared privately on Google Drive (opens after sign-in): [19xx - M624 - DOC - wbsps - ad - 600 series](https://drive.google.com/file/d/0B0yR0b5T78SKYV84MnZPdmp4RXM/view?resourcekey=0-BYn5IKGKqKUqwhW73pe0eg)
 
-Not on Google Drive yet: `M624 - P03 - TOC.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [1968 - 624-02-001 - POWER SUPPLY M624 SCHEMATIC - DRN C.S.O'CONNELL - ISS 1.kicad_sch](KICAD/1968%20-%20624-02-001%20-%20POWER%20SUPPLY%20M624%20SCHEMATIC%20-%20DRN%20C.S.O%27CONNELL%20-%20ISS%201.kicad_sch)
+- [1968 - M624 - DOC - FRAME WIRING VIEWED FROM REAR.kicad_sch](KICAD/1968%20-%20M624%20-%20DOC%20-%20FRAME%20WIRING%20VIEWED%20FROM%20REAR.kicad_sch)
 - [1979 - 624-02-001 - 24V POWER SUPPLY SCHEMATIC - DRN GEB - ENG GEB - ISS 2.kicad_sch](KICAD/1979%20-%20624-02-001%20-%2024V%20POWER%20SUPPLY%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%202.kicad_sch)
 - [1979 - M624 - Power Supply (2) p3.kicad_sch](KICAD/1979%20-%20M624%20-%20Power%20Supply%20(2)%20p3.kicad_sch)
 - [1979 - M624 - Power Supply (2) p9.kicad_sch](KICAD/1979%20-%20M624%20-%20Power%20Supply%20(2)%20p9.kicad_sch)
