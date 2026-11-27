@@ -1,0 +1,97 @@
+{
+ "module": "M624",
+ "source": {
+  "file": "MANUALS/1979 - M624 - Power Supply.pdf",
+  "pages": [
+   6,
+   7,
+   8,
+   9
+  ]
+ },
+ "ocr_quality": 0.94,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The M62h power supply is designed primarily for use with the Ward-Beck 600 scrics equipment but maybe used for any application requiring 24 volts dc, such a5 the operation of relays and lamps, eIc. Two independently fused 24V, 1.5A dc outputs are provided selection of primary transformer winding taps permit 10% adjustment of the nominal dc output voltage. conservatively rated silicon diode bridge assembly and computer grade filter capacitor ensure optimum performance characteristics and lony lerm dependabi ity The primary ac and secondary dc fuses are conveniently located on the module front panel power ON/OFF switch and associated indicator Vamp are also mounted on the front panel AI connections are Made via the MF6 frame receptacles. The MF6 connectors are wired for the required ac and dc operating conditions of the M624 module. Modules may therefore be interchanged without affecting the operation of the system. The modest size of 3.4 13.7 inches allows five M624 power supplies to be accommodated in onc standard rack mounting (19W 3.Sh) MF6 equipment frame Perforations in the mounting frame and module assure adequate vertical ventilation by natural convection"
+   ]
+  },
+  {
+   "heading": "INSIALLAIION",
+   "paragraphs": [
+    "The M624 plugs directly into the MF6 mounting frame which may bc installed in standard EIA 19 inch equipment rack with the hardware supplied with the rack. The MF6 frame is furnished with full guide complement in order to accept maximum of five M624 power supplies or any combination of single Or multiple width modules no[ exceeding 10 single width modules. If the mounting frame has been procured Icss receptacles, these may first be installed in the appropriate module positions. Note that the receptacle containing the ac Line voltage connections is inverted to provide thc mechanical polarizing necessary 40 prevent inadvertent insertion of other companion modules which do not operate Trom the ac Line Jumper terminals P2, 12 (chassis ground) of all power supplies on common frame together and connect #18 AWG wire from each frame of power supplies to the systems ground bus. If the M624 supply is used in WBS console system the following polarity and ground procedures apply: +24V: Fused side of all relay and Lamp circuits.",
+    "24V common: Normally connected to ground_ When used in console systems, it is normal practice Lo connect the +24V to the common side of all lamps, relays, etc, The control sidc of component is then switched to ground via an appropriate control switch or contact. Because the M62h is intended for general purpose Jamp illumination relay operation or other non-critical applications, the actual output voltage may vary in accordance with the Line input, and the output Load Thus the 24V specified is nominal dc output. In general, the 24V dc wili be within 207 for ali conditions, but when applications arise utilizing relays that do not Pull In below 18V the M624 should nol be used Use fuses with the correct ratings for primary and secondary functions. Failure to comply in this regard may cause permanent damage to the power supply",
+    "PARTS LiST"
+   ]
+  },
+  {
+   "heading": "MFG PART NUMBER",
+   "paragraphs": [
+    "Capacitor 4100 uF/75 Corner!"
+   ]
+  },
+  {
+   "heading": "FAH 4100-75-B2",
+   "paragraphs": [
+    "Bridge Rectifier"
+   ]
+  },
+  {
+   "heading": "PB60",
+   "paragraphs": [
+    "Indicator Lamp Eldema cFoz-RTS-1762"
+   ]
+  },
+  {
+   "heading": "FI F2 F3",
+   "paragraphs": [
+    "Fuse 2A S.B 2A F.B 2A F. B.",
+    "Buss"
+   ]
+  },
+  {
+   "heading": "MDL AGC",
+   "paragraphs": [
+    "Resistor 470 3w Dale"
+   ]
+  },
+  {
+   "heading": "CW-2B 470",
+   "paragraphs": [
+    "Switch",
+    "9201",
+    "Transformer Hammond"
+   ]
+  },
+  {
+   "heading": "WBS 80-9",
+   "paragraphs": [
+    "PoWER SuPPLY MOUNTING IRAY IISVAC 60 Hz."
+   ]
+  },
+  {
+   "heading": "2ASB",
+   "paragraphs": [
+    "l80 16 50 IS0 140 50 130 L0 120 30 M10 20 to 0 0 90 90 10 IOO 2 0 10 30 40 5C",
+    "Ti BN 80-9 GN R 1 BK GU",
+    "+24v (F2) PFRUo"
+   ]
+  },
+  {
+   "heading": "2 A F3",
+   "paragraphs": [
+    "5, 6 +24v (F3) Ri}470 3w +24 v 7,8 ChAssIS 12 ci 41oOuF 75v",
+    "common",
+    "ConNECTORS REAR VIEW 13,14 coMMON 15,16 NOTES ShowN CONNECTED FOR 24v OPERATiON 2 FOR 22v OPERATION CONNECT PI-6 AND 5 3.FCR 26 V OPERATION CONNECT PI-6 AND 3"
+   ]
+  },
+  {
+   "heading": "APP SCALE",
+   "paragraphs": [
+    "624 -02 -001"
+   ]
+  }
+ ]
+}

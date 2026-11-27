@@ -1,0 +1,77 @@
+{
+ "module": "M624",
+ "title": "M62h POWER SUPPLY",
+ "source": {
+  "file": "MANUALS/1968 - M624 - P05 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Output voltage",
+   "key": "output_voltage",
+   "text": "22, 24, volts dc nominal two separate outputs (independently fused)"
+  },
+  {
+   "name": "Oad Current",
+   "key": "oad_current",
+   "text": "ampere per output, outputs"
+  },
+  {
+   "name": "Ripple",
+   "key": "ripple",
+   "text": "volt maximum."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "115 volts ac, maximum. Hz 125 VA",
+   "quantities": [
+    {
+     "value": 115,
+     "unit": "volts ac"
+    },
+    {
+     "value": 125,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "degrees Celsius."
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "wide (83 mm 3.4\" high 13.7\" decp mm 336 ttiit)",
+   "quantities": [
+    {
+     "value": 83,
+     "unit": "mm"
+    },
+    {
+     "value": 3.4,
+     "unit": "\""
+    },
+    {
+     "value": 13.7,
+     "unit": "\""
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "6.5 Ib. (3 kg).",
+   "quantities": [
+    {
+     "value": 3,
+     "unit": "kg"
+    }
+   ]
+  }
+ ]
+}
