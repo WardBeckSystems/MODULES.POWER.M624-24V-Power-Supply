@@ -4,13 +4,11 @@ Ward-Beck Systems M624, 1968|1. Wiki page: [M624 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 11 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 133 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 10 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 132 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 25 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -142,7 +140,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1979 - M624 - Power Supply p3.kicad_sch](KICAD/1979%20-%20M624%20-%20Power%20Supply%20p3.kicad_sch)
 - [1979 - M624 - Power Supply p9.kicad_sch](KICAD/1979%20-%20M624%20-%20Power%20Supply%20p9.kicad_sch)
 - [M624.kicad_sym](KICAD/M624.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
