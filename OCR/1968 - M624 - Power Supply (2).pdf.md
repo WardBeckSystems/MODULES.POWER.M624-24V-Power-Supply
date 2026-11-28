@@ -1,5 +1,5 @@
 # 1968 - M624 - Power Supply (2).pdf
-Wiki page: [M624](../../../../PAGES/M624.md)
+Wiki page: [M624](../)
 
 
 - **Year:** 1968 (module estimate (labelled))

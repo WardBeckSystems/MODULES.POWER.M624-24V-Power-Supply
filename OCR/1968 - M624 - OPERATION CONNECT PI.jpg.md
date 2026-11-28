@@ -1,5 +1,5 @@
 # 1968 - M624 - OPERATION CONNECT PI.jpg
-Wiki page: [M624](../../../../PAGES/M624.md)
+Wiki page: [M624](../)
 
 
 - **Year:** 1968 (module estimate (labelled))

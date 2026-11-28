@@ -1,5 +1,5 @@
 # 1979 - M624 - Power Supply (2).pdf
-Wiki page: [M624](../../../../PAGES/M624.md)
+Wiki page: [M624](../)
 
 
 - **Year:** 1979 (found in this file: "MANUAL ISSUE #1 OCTOBER 1979")

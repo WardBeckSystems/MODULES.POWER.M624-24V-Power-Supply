@@ -1,5 +1,5 @@
 # 1968 - M624 - WBS test procedures 1.jpeg
-Wiki page: [M624](../../../../PAGES/M624.md)
+Wiki page: [M624](../)
 
 
 - **Year:** 1968 (module estimate (labelled))

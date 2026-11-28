@@ -1,6 +1,6 @@
 # M624 24V Power Supply · Power
 
-Ward-Beck Systems M624, 1968|1. Wiki page: [M624 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M624.html)
+Ward-Beck Systems M624, 1968|1. Wiki page: [M624 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M624-24V-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|
